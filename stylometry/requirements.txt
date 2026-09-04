@@ -1,0 +1,5 @@
+cltk_readers @ git+https://github.com/diyclassics/cltk_readers.git@e3a8a1315da86eab68c61ad926f744945cf235e6
+pandas==2.2.3
+scipy==1.9.3
+spacy==3.7.5
+tqdm==4.64.1
