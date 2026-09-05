@@ -23,12 +23,6 @@ if __name__ == "__main__":
     feature_sets = [LatinFeatures]
     #root_base = "data/texts/TAPA_verse_texts_preprocessed/"
     #root_base = "data/texts/TAPA_prose_texts_preprocessed/"
-    #root_base = "data/texts/mortal_divine_speech_clean_subset_juturna_only/"
-    #root_base = "data/texts/output_hist_conditionals/"
-    root_base = "data/texts/word_count_testing/"
-    #root_base = "data/texts/output_speeches_50_lines/"
-    #root_base = "data/texts/TAPA_epic_texts_preprocessed/"
-    #root_base = "data/texts/"
 
     def find_second_camelcase_position(s: str) -> int:
         for i, c in enumerate(s):
